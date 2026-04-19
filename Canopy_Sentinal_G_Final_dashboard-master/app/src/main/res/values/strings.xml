@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Canopy Sentinel</string>
+    <string name="search_hint">Search locations…</string>
+    <string name="search_error">Location not found</string>
+    <string name="total_area">Total Area</string>
+    <string name="deforested_area">Deforested Area</string>
+    <string name="forest_health">Forest Health</string>
+    <string name="alerts">Alerts</string>
+    <string name="total_area_icon">Total Area Icon</string>
+    <string name="deforested_area_icon">Deforested Area Icon</string>
+    <string name="forest_health_icon">Forest Health Icon</string>
+    <string name="alerts_icon">Alerts Icon</string>
+    <string name="alert_icon">Alert Icon</string>
+    <string name="view_details">View Details</string>
+    <string name="maps_api_key">YOUR_MAPS_API_KEY_HERE</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_map">Map</string>
+    <string name="nav_analytics">Analytics</string>
+    <string name="nav_alerts">Alerts</string>
+    <string name="nav_profile">Profile</string>
+    
+    <!-- Menu -->
+    <string name="select_country">Select Country</string>
+    <string name="refresh">Refresh</string>
+    
+    <!-- Auth -->
+    <string name="sign_in_guest">Continue as Guest</string>
+    <string name="sign_in_google">Sign in with Google</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="guest_mode_description">Guest users can explore with limited features</string>
+</resources>

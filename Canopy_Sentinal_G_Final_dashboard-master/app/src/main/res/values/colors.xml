@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary">#2E7D32</color>
+    <color name="primary_dark">#1B5E20</color>
+    <color name="primary_light">#A5D6A7</color>
+    <color name="accent">#FFC107</color>
+
+    <!-- Status Colors -->
+    <color name="error">#D32F2F</color>
+    <color name="warning">#FFA000</color>
+    <color name="success">#388E3C</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_tertiary">#9E9E9E</color>
+    <color name="text_hint">#BDBDBD</color>
+
+    <!-- Background Colors -->
+    <color name="background">#FFFFFF</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="card_background">#F5F5F5</color>
+    <color name="overlay_light">#1F000000</color>
+    <color name="divider">#E0E0E0</color>
+
+    <!-- System Colors -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    
+    <!-- Bottom Navigation -->
+    <color name="bottom_nav_selected">@color/primary</color>
+    <color name="bottom_nav_unselected">@color/text_secondary</color>
+</resources>
